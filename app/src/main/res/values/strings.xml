@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplementasiSQLite</string>
+    <string name="updateBiodata">Update Biodata</string>
+</resources>
